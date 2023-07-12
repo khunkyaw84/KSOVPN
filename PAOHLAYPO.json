@@ -1,8 +1,8 @@
 {
 //အပ္ဒိတ္အတြက္ ဗားရွင္း၊ အပ္ဒိတ္ရွိပါက၊ ယခင္ထက္ နံပါတ္မ်ား ပိုမိုေျပာင္းလဲရန္ လိုအပ္ပါသည္။
-"Version":"1.3",
+"Version":"1.4",
 //ဆာဗာ အပ္ဒိတ္
-"Url":"https://github.com/khunkyaw84/KSOVPN/raw/main/KYAWLAYDAY.zip" ,
+"Url":"https://github.com/khunkyaw84/KSOVPN/raw/main/khunpao.zip" ,
 "Changelog":"
 အပ္ဒိတ္အသစ္ေတြ႕ရွိ့သည္
 --------------+--------------
@@ -11,7 +11,8 @@
 • အသံုးျပဳႏိုင္​သည္​
 • အသုံးျပဳ့နိုင္ေသာ ဆင္း(မ္)​ကဒ္မ်ား
 • DTAC-TRUE
-•MECTEL-MPT-OOREDOO
+•MYTEL-MECTEL
+•ATOM-MPT-OOREDOO
 •FREE NET အစံု တင္​​ေပးပါသည္​
 • Quick connection
 • ခြန္​​ေက်ာ္​ ဖရီးနက္​ကို အသံုးျပဳ​ေသာ္​ မိတ္​​ေဆြ
