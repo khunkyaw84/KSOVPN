@@ -1,35 +1,63 @@
 {
-//အပ္ဒိတ္အတြက္ ဗားရွင္း၊ အပ္ဒိတ္ရွိပါက၊ ယခင္ထက္ နံပါတ္မ်ား ပိုမိုေျပာင္းလဲရန္ လိုအပ္ပါသည္။
-"Version":"1.1",
-//ဆာဗာ အပ္ဒိတ္
-"Url":"https://github.com/khunkyaw84/KSOVPN/raw/main/KHUNKYAW.zip" ,
-"Changelog":"
-အပ္ဒိတ္အသစ္ေတြ႕ရွိသည္
---------------+--------------
- 
-• ထိုင္​းဖရီးနက္​န႔ဲျမန္​မာဖရီးနက္​
-• အသံုးျပဳႏိုင္​သည္​
-• အသုံးျပဳ့နိုင္ေသာ ဆင္း(မ္)​ကဒ္မ်ား
-• DTAC-TRUE
-•MYTEL-MECTEL
-•ATOM-MPT-OOREDOO
-•FREE NET အစံု တင္​​ေပးပါသည္​
-• Quick connection
-• ခြန္​​ေက်ာ္​ ဖရီးနက္​ကို အသံုးျပဳ​ေသာ္​ မိတ္​​ေဆြ
- တစ္​ဦးတစ္​​ေယာက္​ အဆင္​​ေျပရင္​ ဝမ္​းသာပါသည္​💓💓💓
- 
-",
- 
- 
- 
- 
- 
- 
-//Myanmar
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
+   "files": [    
+
+
+
+{
+         "name": "TH-VIP-DTAC-01",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-02",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-DTAC-03",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-DTAC-04",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-DTAC-05",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-True-01",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-True-02",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }
+,   
+{
+         "name": "TH-VIP-True-03",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }   
+ ,
+{
+         "name": "TH-VIP-True-04",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }   
+ ,            
+ {
+         "name": "TH-VIP-True-05",
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
+      }  
+      
+     
+   ],
+"message":"
+မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
+\n\nFb: PAO",
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
+   "version":1
 }
